@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access_modifiers/Access_modifiers.iml" filepath="$PROJECT_DIR$/Access_modifiers/Access_modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Applications/Applications.iml" filepath="$PROJECT_DIR$/Applications/Applications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array_of_objects/Array_of_objects.iml" filepath="$PROJECT_DIR$/Array_of_objects/Array_of_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioFile/AudioFile.iml" filepath="$PROJECT_DIR$/AudioFile/AudioFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicPoly/DynamicPoly.iml" filepath="$PROJECT_DIR$/DynamicPoly/DynamicPoly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileReader/FileReader.iml" filepath="$PROJECT_DIR$/FileReader/FileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Files/Files.iml" filepath="$PROJECT_DIR$/Files/Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUISwing/GUISwing.iml" filepath="$PROJECT_DIR$/GUISwing/GUISwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gui_applic/Gui_applic.iml" filepath="$PROJECT_DIR$/Gui_applic/Gui_applic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method_overriding/Method_overriding.iml" filepath="$PROJECT_DIR$/Method_overriding/Method_overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object_passing/Object_passing.iml" filepath="$PROJECT_DIR$/Object_passing/Object_passing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overloaded_constructors/Overloaded_constructors.iml" filepath="$PROJECT_DIR$/Overloaded_constructors/Overloaded_constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/Serialization/Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static_keyword/Static_keyword.iml" filepath="$PROJECT_DIR$/Static_keyword/Static_keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eu_java.iml" filepath="$PROJECT_DIR$/eu_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super_keyword/super_keyword.iml" filepath="$PROJECT_DIR$/super_keyword/super_keyword.iml" />
+    </modules>
+  </component>
+</project>
